@@ -57,7 +57,7 @@ class <class> extends Command
     {
         $this
             ->setName('generate')
-            ->setDescription('Generate skeleton for new command')
+            ->setDescription('Generate skeleton class for new command')
             ->setHelp(<<<EOF
 The <info>generate</info> command create skeleton of new command class.
 
