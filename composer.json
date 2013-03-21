@@ -18,5 +18,10 @@
     "autoload": {
         "psr-0": { "SunCat\\Console\\": "" }
     },
-    "target-dir": "SunCat/Console"
+    "target-dir": "SunCat/Console",
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.x-dev"
+        }
+    }
 }
