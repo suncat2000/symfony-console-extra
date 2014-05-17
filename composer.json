@@ -1,5 +1,5 @@
 {
-    "name": "suncat/symfony-console-extra",
+    "name": "sam0delkin/symfony-console-extra",
     "type": "library",
     "description": "Symfony 2 Console Extra for console-commands micro library",
     "keywords": ["console", "command"],
@@ -12,8 +12,8 @@
     ],
     "require": {
         "php": ">=5.3.3",
-        "symfony/console": "2.2.*@dev",
-        "symfony/finder": "2.2.*@dev"
+        "symfony/console": "2.4",
+        "symfony/finder": "2.4"
     },
     "autoload": {
         "psr-0": { "SunCat\\Console\\": "" }
