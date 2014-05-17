@@ -1,5 +1,5 @@
 {
-    "name": "sam0delkin/symfony-console-extra",
+    "name": "suncat/symfony-console-extra",
     "type": "library",
     "description": "Symfony 2 Console Extra for console-commands micro library",
     "keywords": ["console", "command"],
